@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Счёт брата",
-  description: "Простой учёт денег брата на карте.",
+  title: "Счёт",
+  description: "Простой учёт пополнений и платежей.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
